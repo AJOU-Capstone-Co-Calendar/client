@@ -1,0 +1,15 @@
+.container {
+    position: fixed;
+    display: flex;
+    bottom: 10px;
+    left: 50%;
+    right: 0;
+    left: 0;
+}
+
+.icon {
+    width: 32px;
+    height: 42px;
+    cursor: pointer;
+    flex: 1;
+}
